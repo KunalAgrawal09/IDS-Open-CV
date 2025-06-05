@@ -3,7 +3,7 @@ An Intrusion Detection System (IDS) is a type of security system that monitors n
 
 Video surveillance: OpenCV can be used for video analysis to detect intrusions in physical spaces, such as unauthorized access to a restricted area or suspicious behavior in a public space.
 # Installation
-use the package pip to install
-pip install opencv-python
-pip install cvzone
-pip install twilio
+use the package pip to install :
+pip install opencv-python ,
+pip install cvzone ,
+pip install twilio ,
